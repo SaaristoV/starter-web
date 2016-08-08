@@ -1,11 +1,15 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+Aliquam nulla enim, condimentum nec sem id, porta condimentum leo.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Aliquam nulla enim, condimentum nec sem id, porta condimentum leo.
 
 ## Deployment
 
+Aliquam nulla enim, condimentum nec sem id, porta condimentum leo.
+
 ## How to contribute
+
+Aliquam nulla enim, condimentum nec sem id, porta condimentum leo.
