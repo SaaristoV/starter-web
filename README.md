@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+Adding some text. Rebase example.
+
 ## Introduction
 
 Duis turpis nunc, cursus vitae magna vel, dapibus fermentum sem.
