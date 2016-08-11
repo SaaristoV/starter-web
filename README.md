@@ -17,6 +17,8 @@ Morbi urna leo, imperdiet eget commodo eget, pretium a neque. Donec sit amet ele
 
 ## How to contribute
 
+Please fork this repo and issue Pull Requests
+
 Aliquam nulla enim, condimentum nec sem id, porta condimentum leo.
 
 Aenean feugiat eros vel justo interdum cursus. 
