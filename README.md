@@ -29,4 +29,4 @@ Aenean feugiat eros vel justo interdum cursus.
 
 ###Copyright
 
-Rights for all
+Rights for all. All rights reserved.
