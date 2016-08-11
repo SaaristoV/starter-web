@@ -22,3 +22,7 @@ Aliquam nulla enim, condimentum nec sem id, porta condimentum leo.
 Aenean feugiat eros vel justo interdum cursus. 
 Aenean feugiat eros vel justo interdum cursus. 
 Aenean feugiat eros vel justo interdum cursus. 
+
+###Copyright
+
+Rights for all
