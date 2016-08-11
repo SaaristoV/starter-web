@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Adding some text. Rebase example.
+Adding some text. Rebase example, then more changes from myfeature branch too.
 
 ## Introduction
 
